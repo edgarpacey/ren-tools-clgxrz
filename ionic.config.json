@@ -1,0 +1,8 @@
+{
+  "name": "RenTools",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b9daff39"
+}
